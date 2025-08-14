@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
@@ -37,7 +37,7 @@
 ![Time Management](https://img.shields.io/badge/-Time%20Management-20B2AA?style=flat-square)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## My Stats
 
 ![Bhattu-Sai-Praneeth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhattu-Sai-Praneeth&theme=highcontrast&hide_border=true)
 
