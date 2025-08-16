@@ -29,12 +29,6 @@
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=ffffff)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=000000)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=ffffff)
-![Testing](https://img.shields.io/badge/-Testing-6DB33F?style=flat-square&logo=testing-library&logoColor=ffffff)
-![Teamwork](https://img.shields.io/badge/-Teamwork-2E8B57?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4682B4?style=flat-square)
-![Adaptability](https://img.shields.io/badge/-Adaptability-FF8C00?style=flat-square)
-![Quick Learner](https://img.shields.io/badge/-Quick%20Learner-8A2BE2?style=flat-square)
-![Time Management](https://img.shields.io/badge/-Time%20Management-20B2AA?style=flat-square)
 
 
 ## My Stats
