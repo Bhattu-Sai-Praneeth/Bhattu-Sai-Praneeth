@@ -1,4 +1,5 @@
 ## Hello, I'm Sai Praneeth👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 [![](https://img.shields.io/badge/-@saipraneeth-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/SAIPRANEETH252)
