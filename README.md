@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=My+Tech+Stack)](https://git.io/typing-svg)
+##My Tech Stack
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
@@ -26,7 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=My+Stats)](https://git.io/typing-svg)
+## My Stats
 ![Bhattu-Sai-Praneeth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhattu-Sai-Praneeth&theme=highcontrast&hide_border=true)
 
 ![Bhattu-Sai-Praneeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhattu-Sai-Praneeth&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
