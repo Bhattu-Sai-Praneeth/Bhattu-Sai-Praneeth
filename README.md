@@ -1,5 +1,4 @@
-## Hello, I'm Sai Praneeth👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!;I'm+Sai+Praneeth%F0%9F%91%8B;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 [![](https://img.shields.io/badge/-@saipraneeth-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/SAIPRANEETH252)
@@ -9,8 +8,7 @@
 [![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
 
 
-## My Tech Stack
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=My+Tech+Stack)](https://git.io/typing-svg)
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
@@ -28,8 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
 
-## My Stats
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=My+Stats)](https://git.io/typing-svg)
 ![Bhattu-Sai-Praneeth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhattu-Sai-Praneeth&theme=highcontrast&hide_border=true)
 
 ![Bhattu-Sai-Praneeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhattu-Sai-Praneeth&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
