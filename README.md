@@ -23,9 +23,3 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
-
-
-## My Stats
-![Bhattu-Sai-Praneeth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhattu-Sai-Praneeth&theme=highcontrast&hide_border=true)
-
-![Bhattu-Sai-Praneeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhattu-Sai-Praneeth&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
