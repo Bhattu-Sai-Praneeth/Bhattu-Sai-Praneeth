@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 ### Additional
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=ffffff)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=000000)
+![AWS EC2 & S3](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=000000)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=ffffff)
 ![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat-square&logo=testing-library&logoColor=ffffff)
 
