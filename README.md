@@ -26,19 +26,6 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=000000)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=intellijidea)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
-### Additional
-![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=ffffff)
-![AWS EC2 & S3](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=000000)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=ffffff)
-![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat-square&logo=testing-library&logoColor=ffffff)
 
 ## My Stats
 
