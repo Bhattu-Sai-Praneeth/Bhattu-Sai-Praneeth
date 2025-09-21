@@ -19,7 +19,18 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 
+### Cloud & Virtualization
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=ffffff)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=ffffff)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=ffffff)
+![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=ffffff)
+![Virtualization](https://img.shields.io/badge/-Virtualization-00C7B7?style=flat-square&logo=vmware&logoColor=ffffff)
+
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
+
+
+
