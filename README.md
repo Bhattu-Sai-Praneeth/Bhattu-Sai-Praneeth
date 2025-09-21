@@ -19,7 +19,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 
-### Cloud & Virtualization
+### Cloud Technologies
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=ffffff)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=ffffff)
