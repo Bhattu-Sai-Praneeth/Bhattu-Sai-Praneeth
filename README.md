@@ -32,7 +32,6 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
-![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHATTU-SAI-PRANEETH&theme=tokyonight&hide_border=false)
-
+![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHATTU-SAI-PRANEETH&theme=cobalt&hide_border=false)
 
 
