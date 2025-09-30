@@ -34,4 +34,7 @@
 
 ![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&theme=cobalt&hide_border=true&background=transparent)
 
+![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&hide_border=true&background=transparent&ring=FF4500&fire=FF6347&currStreakLabel=1E90FF&sideNums=32CD32&currStreakNum=FFD700)
+
+
 
