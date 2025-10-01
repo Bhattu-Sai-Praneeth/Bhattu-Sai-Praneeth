@@ -43,12 +43,3 @@
 
 ![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&hide_border=true&background=transparent&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA)
 
-
-
-
-
-
-![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&hide_border=true&background=transparent&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA)
-
-
-
