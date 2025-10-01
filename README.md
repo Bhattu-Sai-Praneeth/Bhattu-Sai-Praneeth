@@ -7,9 +7,9 @@
 [![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
 
 
-##  Tools & Technologies
+## 🖥 Tools & Technologies
 
-<table>
+<table style="background-color:white;">
 <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
@@ -41,6 +41,7 @@
     <td></td>
 </tr>
 </table>
+
 
 
 ![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&hide_border=true&background=transparent&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA)
