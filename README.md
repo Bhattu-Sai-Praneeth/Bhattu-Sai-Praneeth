@@ -2,7 +2,23 @@
 
 
 
-[![](https://img.shields.io/badge/-@saipraneeth-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/SAIPRANEETH252)   [![](https://img.shields.io/badge/-@bhattusaipraneeth-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Bhattu-Sai-Praneeth)   [![](https://img.shields.io/badge/-Sai%20Praneeth%20Bhattu-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saipraneethbhattu/)   [![](https://img.shields.io/badge/-sai_pranee_th_b-%23E4405F?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sai_pranee_th_b/)   [![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
+<div align="left">
+  <a href="https://x.com/SAIPRANEETH252" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://github.com/Bhattu-Sai-Praneeth" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/saipraneethbhattu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/sai_pranee_th_b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://bhattu-sai-praneeth.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0AB9E6&logoColor=white&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+</div>
 
 
 
@@ -13,3 +29,5 @@
 
 
 ![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&hide_border=true&background=transparent&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA)
+
+
