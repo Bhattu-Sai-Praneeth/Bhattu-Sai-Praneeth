@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Hey+there!;I'm+Sai+Praneeth%F0%9F%91%8B;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
+<br>
+<br>
 
 <div align="left">
   <a href="https://x.com/SAIPRANEETH252" target="_blank">
@@ -21,10 +23,14 @@
 </div>
 
 
+<br>
+<br>
 
 
 
 [![My Skills](https://skillicons.dev/icons?i=php,mongodb,linux,c,python,js,html,css,tailwind,react,mysql,aws,git,gitlab,jenkins,ansible,docker,terraform,powershell,bash,kubernetes,prometheus,grafana,nginx,maven,redhat&theme=dark&perline=10)](https://skillicons.dev)
+<br>
+<br>
 
 
 
