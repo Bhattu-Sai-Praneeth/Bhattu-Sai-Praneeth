@@ -2,15 +2,7 @@
 
 
 
-[![](https://img.shields.io/badge/-@saipraneeth-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/SAIPRANEETH252)
-
-[![](https://img.shields.io/badge/-@bhattusaipraneeth-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Bhattu-Sai-Praneeth)
-
-[![](https://img.shields.io/badge/-Sai%20Praneeth%20Bhattu-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saipraneethbhattu/)
-
-[![](https://img.shields.io/badge/-sai_pranee_th_b-%23E4405F?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sai_pranee_th_b/)
-
-[![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
+[![](https://img.shields.io/badge/-@saipraneeth-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/SAIPRANEETH252)   [![](https://img.shields.io/badge/-@bhattusaipraneeth-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Bhattu-Sai-Praneeth)   [![](https://img.shields.io/badge/-Sai%20Praneeth%20Bhattu-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saipraneethbhattu/)   [![](https://img.shields.io/badge/-sai_pranee_th_b-%23E4405F?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sai_pranee_th_b/)   [![](https://img.shields.io/badge/-Portfolio.sai-%230ab9e6?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://bhattu-sai-praneeth.github.io/Portfolio/)
 
 
 
