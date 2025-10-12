@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://bhattu-sai-praneeth.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0AB9E6&logoColor=white&style=for-the-badge" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=0AB9E6&logoColor=white&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
