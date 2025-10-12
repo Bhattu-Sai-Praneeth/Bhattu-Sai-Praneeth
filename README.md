@@ -2,7 +2,6 @@
 
 
 <br>
-<br>
 
 <div align="left">
   <a href="https://x.com/SAIPRANEETH252" target="_blank">
