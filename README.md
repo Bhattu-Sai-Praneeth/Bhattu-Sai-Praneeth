@@ -28,9 +28,9 @@
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=php,mongodb,linux,c,python,js,html,css,tailwind,react,mysql,aws,git,gitlab,jenkins,ansible,docker,terraform,powershell,bash,kubernetes,prometheus,grafana,nginx,maven,redhat&theme=dark&perline=10)](https://skillicons.dev)
+<br>
+<br>
 
-
-
-![BHATTU-SAI-PRANEETH's Streak](https://github-readme-streak-stats.herokuapp.com?user=BHATTU-SAI-PRANEETH&hide_border=true&background=transparent&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA)
 
 
