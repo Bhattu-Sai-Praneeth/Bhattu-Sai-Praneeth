@@ -27,9 +27,6 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=php,mongodb,linux,c,python,js,html,css,tailwind,react,mysql,aws,git,gitlab,jenkins,ansible,docker,terraform,powershell,bash,kubernetes,prometheus,grafana,nginx,maven,redhat&theme=dark&perline=10)](https://skillicons.dev)
-<br>
-<br>
 
 
 
